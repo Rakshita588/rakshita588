@@ -13,7 +13,7 @@ I'm an Information Science and Engineering student who enjoys learning programmi
 * 🗄️ Currently learning **SQL**
 * 🌐 Learned **HTML, CSS & JavaScript Basics**
 * 🐍 Learned the fundamentals of **Python & NumPy**
-* 🛒 Currently working on an **Amazon-inspired webpage using HTML & CSS**
+* 🛒 Built an **Amazon-inspired webpage using HTML & CSS**
 * 📚 Interested in **Web Development, Programming & Software Development**
 * 🚀 Continuously learning and improving my coding skills
 
