@@ -11,15 +11,15 @@ I'm an Information Science and Engineering student who enjoys learning programmi
 * 🎓 Information Science and Engineering Student
 * 💻 Currently learning **C++ & Data Structures and Algorithms**
 * 🗄️ Currently learning **SQL**
-* 🌐 Learned **HTML & CSS & Javascrpit**
-* 🐍 Exploring **Python & NumPy**
-* 🛒 Built an **Amazon-inspired webpage using HTML & CSS**
+* 🌐 Learned **HTML, CSS & JavaScript Basics**
+* 🐍 Learned the fundamentals of **Python & NumPy**
+* 🛒 Currently working on an **Amazon-inspired webpage using HTML & CSS**
 * 📚 Interested in **Web Development, Programming & Software Development**
-* 🚀 Currently working on improving my coding and development skills
+* 🚀 Continuously learning and improving my coding skills
 
 ---
 
-## 🧑‍💻 Tech Stack
+## 🧑‍💻 Skills & Technologies
 
 ### Programming Languages
 
@@ -27,6 +27,7 @@ I'm an Information Science and Engineering student who enjoys learning programmi
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
 ### Web Development
@@ -36,6 +37,12 @@ I'm an Information Science and Engineering student who enjoys learning programmi
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
+### Libraries
+
+<p>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+</p>
+
 ### Currently Learning
 
 <p>
@@ -43,10 +50,9 @@ I'm an Information Science and Engineering student who enjoys learning programmi
   <img src="https://img.shields.io/badge/DSA%20in%20C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 </p>
 
-### Libraries & Tools
+### Tools
 
 <p>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
@@ -58,13 +64,15 @@ I'm an Information Science and Engineering student who enjoys learning programmi
 
 ### 🛒 Amazon-Inspired Webpage
 
-Created an Amazon-inspired webpage using **HTML and CSS** while learning the fundamentals of web development.
-
-**Technologies:** HTML, CSS
+Currently working on an Amazon-inspired webpage using **HTML and CSS** while practicing web development.
 
 ### 🐍 NumPy
 
-Learned the fundamentals of **NumPy** and practiced working with arrays and numerical operations in Python.
+Learned the fundamentals of **NumPy**, including arrays and basic numerical operations.
+
+### 🌐 JavaScript
+
+Learned the **basics of JavaScript** and explored fundamental programming concepts.
 
 ---
 
@@ -74,7 +82,6 @@ Learned the fundamentals of **NumPy** and practiced working with arrays and nume
 * 🗄️ SQL
 * 💻 C++ Programming
 * 🌐 Web Development
-* 🐍 Python & NumPy
 
 ---
 
@@ -98,9 +105,6 @@ To continuously improve my programming and problem-solving skills, explore new t
   <a href="https://github.com/Rakshita588">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
 </p>
 
 ---
@@ -108,4 +112,3 @@ To continuously improve my programming and problem-solving skills, explore new t
 ### ✨ Learning • Building • Growing 🚀
 
 ⭐ Thanks for visiting my profile!
-
