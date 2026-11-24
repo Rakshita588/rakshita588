@@ -11,8 +11,9 @@ I'm an Information Science and Engineering student who enjoys learning programmi
 * 🎓 Information Science and Engineering Student
 * 💻 Currently learning **C++ & Data Structures and Algorithms**
 * 🗄️ Currently learning **SQL**
-* 🌐 Learned **HTML, CSS & JavaScript Basics**
-* 🐍 Learned the fundamentals of **Python & NumPy**
+* 🌐 Learned **HTML, CSS & JavaScript Basics **
+* 🗄️ Learned ** MySql (database)**
+* 🐍 Learned the fundamentals of **Python , NumPy & pandas**
 * 🛒 Built an **Amazon-inspired webpage using HTML & CSS**
 * 📚 Interested in **Web Development, Programming & Software Development**
 * 🚀 Continuously learning and improving my coding skills
